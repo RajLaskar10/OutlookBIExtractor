@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendly//EN
+CALSCALE:GREGORIAN
+METHOD:CANCEL
+BEGIN:VEVENT
+DTSTAMP:20240320T081057Z
+UID:calendly-941169938
+DTSTART:20240322T163000Z
+DTEND:20240322T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Event Name: Call/Showing\nEvent Description: Please add the loc
+ ation of showing and contact information. Please be aware of travel time b
+ etween appointments showings .\nDate & Time: 10:00pm - 10:15pm (India Stan
+ dard Time) on Friday\, March 22\, 2024\n\nNeed to make changes to this eve
+ nt?\nCancel: https://calendly.com/cancellations/ec388b4e-7572-41e7-b974-34
+ 6cdde30cf0\nReschedule: https://calendly.com/reschedulings/ec388b4e-7572-4
+ 1e7-b974-346cdde30cf0\n
+LOCATION:+91 83558 45850
+ORGANIZER;CN=Carlos Matos :no-reply@calendly.com
+SUMMARY:Call/Showing with Carlos Matos 
+TRANSP:OPAQUE
+ATTENDEE:mailto:laskar.r@northeastern.edu
+END:VEVENT
+END:VCALENDAR
