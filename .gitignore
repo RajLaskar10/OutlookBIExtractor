@@ -30,4 +30,4 @@ output/
 # Ignore sensitive files (if any)
 .env
 
-data/
+/data
