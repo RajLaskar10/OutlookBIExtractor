@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//accelevents.com//AccelEvents Calendar 1.0//EN
+BEGIN:VEVENT
+UID:f6658441-f957-428d-b188-fee0d20e2473
+DTSTAMP:20240802T015152
+DTSTART:20240907T150000Z
+DTEND:20240907T210000Z
+ORGANIZER;CN=Khoury Events Team:MAILTO:a.walsh@northeastern.edu
+LOCATION:Blackman Auditorium, Huntington Avenue, Boston, MA, USA
+DESCRIPTION:Click this link to see the event page: https://www.accelevents.com/e/ms-fall-new-student-welcome
+SUMMARY:Khoury college Master's Student Orientation- Boston Fall 2024
+END:VEVENT
+END:VCALENDAR

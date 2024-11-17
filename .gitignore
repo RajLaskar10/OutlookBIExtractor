@@ -1,0 +1,31 @@
+# Ignore the virtual environment
+env/
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore IDE and editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore system-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+logs/
+*.log
+
+# Ignore output files and generated data
+output/
+*.xlsx
+
+# Ignore backup and temp files
+*.bak
+*.tmp
+*.temp
+
+# Ignore sensitive files (if any)
+.env
